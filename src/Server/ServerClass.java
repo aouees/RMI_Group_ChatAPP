@@ -13,7 +13,6 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import javafx.stage.DirectoryChooser;
 
 public class ServerClass  extends UnicastRemoteObject implements ServerInterface{
 
